@@ -16,9 +16,8 @@ I have worked with different industries in my career helping them leverage the p
 # Certifications
 
 | AWS Certified Solution Architect - Associate | AWS Certified Database - Specialty| Tableau Desktop Specialist |
-| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| ![](https://www.credly.com/earner/earned/badge/eb6dd050-4408-4d80-adfa-1ba29e8f1a90)  | ![](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)  | ![](https://images.credly.com/size/680x680/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png)  |
-
+| -------------------------------------------- | --------------------------------- | -------------------------- |
+| [![name](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/840d7bdf-39f5-4aeb-b320-379cad5ba1fd)  | [![name](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/earner/earned/badge/eb6dd050-4408-4d80-adfa-1ba29e8f1a90) | [![name](https://images.credly.com/size/680x680/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png)](https://www.credly.com/earner/earned/badge/d31a0096-db09-4914-8260-738f75c949b2)  |
 
 <!--
 **cauchi94/cauchi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
