@@ -1,5 +1,25 @@
 ### Hi there 👋
 
+# Christopher Cauchi - Business Intelligence Engineer
+
+Passionate about databases with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
+
+I have worked with different industries in my career helping them leverage the power of visualisations and dashboards with a focus on automation, scalability and data quality assurance.
+
+# Summary
+
+- Developed intricate queries using MySQL, OracleSQL, RedshiftSQL and SparkSQL.
+- Implemented interactive and user-friendly dashboards based on user requirements.
+- Managed projects and stakeholders for optimal definition of key metrics.
+- Proficient in various SQL dialects, Python, R, Tableau, Quicksight and AWS technology.
+
+# Certifications
+
+| AWS Certified Solution Architect - Associate | AWS Certified Database - Specialty| Tableau Desktop Specialist |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| ![](https://images.credly.com/size/680x680/images/885d38e4-55c0-4c35-b4ed-694e2b26be6c/image.png)  | ![](https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)  | ![](https://images.credly.com/size/680x680/images/0abdbebb-07bd-4698-8d53-75bc075416df/TDS_png.png)  |
+
+
 <!--
 **cauchi94/cauchi94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
