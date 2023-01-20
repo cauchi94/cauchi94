@@ -11,7 +11,7 @@ I have worked with different industries in my career helping them leverage the p
 - Developed intricate queries using MySQL, OracleSQL, RedshiftSQL and SparkSQL.
 - Implemented interactive and user-friendly dashboards based on user requirements.
 - Managed projects and stakeholders for optimal definition of key metrics.
-- Proficient in various SQL dialects, Python, R, Tableau, Quicksight and AWS technology.
+- Proficient in various SQL dialects, Python, R, Excel, VBA, Tableau, Quicksight, PowerBI and AWS technology.
 
 ## Certifications
 
