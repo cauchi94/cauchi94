@@ -2,7 +2,7 @@
 
 Passionate about databases with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
 
-I have worked with different industries in my career helping them leverage the power of visualisations and dashboards with a focus on automation, scalability and data quality assurance.
+I have worked with different industries in my career helping them leverage the power of visualisations and dashboards with a focus on automation, scalability and data quality assurance and driving recommendations, strategies and action plans with stakeholders.
 
 ## Summary
 
@@ -10,6 +10,7 @@ I have worked with different industries in my career helping them leverage the p
 - Implemented interactive and user-friendly dashboards based on user requirements.
 - Managed projects and stakeholders for optimal definition of key metrics.
 - Proficient in various SQL dialects, Python, R, Excel, VBA, Tableau, Quicksight, PowerBI and AWS technology.
+- Eager to learn more about the ML/AI field and Data Engineering to consolidate my profile.
 
 ## Certifications
 
