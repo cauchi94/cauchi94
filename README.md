@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Christopher Cauchi - Business Intelligence Engineer
 
 Passionate about databases with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
