@@ -1,6 +1,6 @@
 ## Christopher Cauchi - Business Intelligence Engineer
 
-Passionate about databases with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
+Passionate about data and growth with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
 
 I have worked with different industries in my career helping them leverage the power of visualisations and dashboards with a focus on automation, scalability and data quality assurance and driving recommendations, strategies and action plans with stakeholders.
 
