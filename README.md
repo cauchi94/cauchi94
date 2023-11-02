@@ -1,7 +1,7 @@
 ## Christopher Cauchi
-# Current Role
+### Current Role
 - Business Analyst - Strategy
-# Previous Roles 
+### Previous Roles 
 - Business Intelligence Engineer
 - Revenue Analyst
 - Quantitative Analyst
