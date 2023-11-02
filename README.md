@@ -3,6 +3,8 @@
 - Business Analyst - Strategy
 ### Previous Roles 
 - Business Intelligence Engineer
+- Data Analyst
+- Business Analyst
 - Revenue Analyst
 - Quantitative Analyst
 
