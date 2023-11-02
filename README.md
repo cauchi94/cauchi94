@@ -1,4 +1,10 @@
-## Christopher Cauchi - Business Analyst / Business Intelligence Engineer / Pricing Analyst / Revenue Analyst
+## Christopher Cauchi
+# Current Role
+- Business Analyst - Strategy
+# Previous Roles 
+- Business Intelligence Engineer
+- Revenue Analyst
+- Quantitative Analyst
 
 Passionate about data and growth with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
 
