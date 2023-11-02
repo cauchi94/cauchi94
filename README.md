@@ -1,4 +1,4 @@
-## Christopher Cauchi - Business Intelligence Engineer
+## Christopher Cauchi - Business Analyst / Business Intelligence Engineer / Pricing Analyst / Revenue Analyst
 
 Passionate about data and growth with a particular focus on extracting insights and strategies through effective visualisations on BI tools.
 
@@ -6,7 +6,7 @@ I have worked with different industries in my career helping them leverage the p
 
 ## Summary
 
-- Developed intricate queries using MySQL, OracleSQL, RedshiftSQL and SparkSQL.
+- Developed intricate queries using MySQL, OracleSQL, RedshiftSQL, SparkSQL and SnowflakeSQL.
 - Implemented interactive and user-friendly dashboards based on user requirements.
 - Managed projects and stakeholders for optimal definition of key metrics.
 - Proficient in various SQL dialects, Python, R, Excel, VBA, Tableau, Quicksight, PowerBI and AWS technology.
